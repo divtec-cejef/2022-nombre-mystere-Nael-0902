@@ -1,8 +1,8 @@
 /**
 * Jeu du nombre mystère
-* @author  Steve Fallet
+* @author  Nael Knani
 * @version 0.1
-* @since   2018-09-09 (date de création)
+* @since   2022-08-30 (date de création)
 */
 
 // Main IIFE (Immediately-Invoked Function Expression, se prononce "iffy")
