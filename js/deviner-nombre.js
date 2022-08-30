@@ -36,7 +36,7 @@
             let message = lastResult < nbMystere ? 'C\'est plus' : 'C\'est moins';
             ++nbCoups;
             alert(message);
-            if (lastResult == nbMystere) {
+            if (lastResult === nbMystere) {
                 break;
             }
         }
